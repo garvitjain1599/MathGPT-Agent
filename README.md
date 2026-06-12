@@ -83,7 +83,7 @@ Enter the API key in the Streamlit sidebar when launching the application.
 ## Running the Application
 
 ```bash
-streamlit run app.py
+streamlit run math_llm_agent.py
 ```
 
 The application will be available at:
